@@ -7,3 +7,5 @@ http://jsfiddle.net/VxafF/
 
 Referenced here:
 https://stackoverflow.com/questions/29467339/how-to-call-a-function-from-another-controller-in-angularjs
+
+Run via Visual Studio Code's Live Server feature
